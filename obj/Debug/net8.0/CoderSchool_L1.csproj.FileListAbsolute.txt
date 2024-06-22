@@ -1,0 +1,14 @@
+D:\Stuff\C#\CoderSchool_L1\bin\Debug\net8.0\CoderSchool_L1.exe
+D:\Stuff\C#\CoderSchool_L1\bin\Debug\net8.0\CoderSchool_L1.deps.json
+D:\Stuff\C#\CoderSchool_L1\bin\Debug\net8.0\CoderSchool_L1.runtimeconfig.json
+D:\Stuff\C#\CoderSchool_L1\bin\Debug\net8.0\CoderSchool_L1.dll
+D:\Stuff\C#\CoderSchool_L1\bin\Debug\net8.0\CoderSchool_L1.pdb
+D:\Stuff\C#\CoderSchool_L1\obj\Debug\net8.0\CoderSchool_L1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\C#\CoderSchool_L1\obj\Debug\net8.0\CoderSchool_L1.AssemblyInfoInputs.cache
+D:\Stuff\C#\CoderSchool_L1\obj\Debug\net8.0\CoderSchool_L1.AssemblyInfo.cs
+D:\Stuff\C#\CoderSchool_L1\obj\Debug\net8.0\CoderSchool_L1.csproj.CoreCompileInputs.cache
+D:\Stuff\C#\CoderSchool_L1\obj\Debug\net8.0\CoderSchool_L1.dll
+D:\Stuff\C#\CoderSchool_L1\obj\Debug\net8.0\refint\CoderSchool_L1.dll
+D:\Stuff\C#\CoderSchool_L1\obj\Debug\net8.0\CoderSchool_L1.pdb
+D:\Stuff\C#\CoderSchool_L1\obj\Debug\net8.0\CoderSchool_L1.genruntimeconfig.cache
+D:\Stuff\C#\CoderSchool_L1\obj\Debug\net8.0\ref\CoderSchool_L1.dll
